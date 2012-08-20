@@ -10,6 +10,9 @@ bin-release/
 *.ipr
 *.iws
 *.DS_Store
+**/*.DS_Store
+
+.metadata
 
 # Eclipse/Flex/Flash Builder project files
 .actionScriptProperties
